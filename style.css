@@ -1,0 +1,13 @@
+/* :root {
+    --mainColor--:linear-gradient(rgb(238, 238, 238), rgb(255, 255, 255));
+}
+body{
+    background-image: var(--mainColor--);
+     background-image: linear-gradient(rgb(238, 238, 238), rgb(255, 255, 255)); 
+} */
+.content{
+    background-color: rgb(238, 238, 238);
+}
+.title{
+
+}
